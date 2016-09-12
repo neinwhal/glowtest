@@ -1,0 +1,6 @@
+As per https://forum.minetest.net/viewtopic.php?p=141871#p141871 retrieved on 2016-09-11
+
+License:
+CC-BY-SA (For everything)
+
+If any contributors or creators believe the work contained in this mod is theirs, please let the mod distributor know.
