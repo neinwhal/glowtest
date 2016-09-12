@@ -4,7 +4,7 @@ mobs:register_mob("gtmobs:spider", {
 	hp_min = 20,
 	hp_max = 40,
 	collisionbox = {-0.9, -0.01, -0.7, 0.7, 0.6, 0.7},
-	textures = {"glowtest_spider.png"},
+	textures = { {"glowtest_spider.png"} },
 	visual_size = {x=7,y=7},
 	visual = "mesh",
 	mesh = "spider_model.x",
