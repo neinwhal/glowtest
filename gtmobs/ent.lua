@@ -5,7 +5,7 @@ mobs:register_mob("gtmobs:ent", {
 	hp_max = 70,
 	collisionbox = {-1.8, -0.02, -1.4, 1.4, 5.2, 1.4},
 	textures = {
-		"default_dirt.png",
+		{"glowtest_ent.png"}
 	},
 	visual_size = {x=3.5,y=3.5},
 	visual = "mesh",
